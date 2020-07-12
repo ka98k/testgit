@@ -1,5 +1,0 @@
-this is file1.txt
-
-
-insert into 007
-new change
