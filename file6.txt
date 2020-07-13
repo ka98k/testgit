@@ -1,0 +1,1 @@
+hello world, this is file6.txt, welcome to here!
